@@ -18,11 +18,11 @@
     },
     props: {
     height: {
-      type: [Number, String],
-      default: 250,
+      type: String,
+      default: '100%',
     },
     width: {
-      type: [Number, String],
+      type: String,
       default: '100%',
     },
     dataSource: {

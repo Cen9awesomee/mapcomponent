@@ -17,8 +17,8 @@ export default {
   },
   props: {
     height: {
-      type: [Number, String],
-      default: 250,
+      type: String,
+      default: '100%',
     },
     dataSource: {
       type: Object,

@@ -121,7 +121,7 @@
       <div class="card-header">Смертность, чел. на 1 тыс. чел.</div>
       <div class="card-content">
         <div class="road-container">
-          <road-chart height="100%" :data-source="roadChartData" />
+          <road-chart :data-source="roadChartData" />
         </div>
       </div>
     </div>

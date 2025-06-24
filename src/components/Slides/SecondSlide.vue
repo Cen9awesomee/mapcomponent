@@ -20,7 +20,7 @@
       </div>
       <div class="card-content">
         <div class="road-container">
-          <positive-negative-chart height="100%" :data-source="barSixChartData" />
+          <positive-negative-chart :data-source="barSixChartData" />
         </div>
       </div>
     </div>

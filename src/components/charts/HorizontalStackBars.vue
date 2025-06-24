@@ -18,11 +18,11 @@ export default {
   },
   props: {
     width: {
-      type: [Number, String],
+      type: String,
       default: '100%',
     },
     height: {
-      type: [Number, String],
+      type: String,
       default: '100%',
     },
     dataSource: {

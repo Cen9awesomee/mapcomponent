@@ -42,8 +42,8 @@
 </template>
 
 <script>
-import FirstSlide from './Slides/FirstSlide.vue';
-import SecondSlide from './Slides/SecondSlide.vue';
+import FirstSlide from './slides/FirstSlide.vue';
+import SecondSlide from './slides/SecondSlide.vue';
 
 export default {
   name: 'MapCard',

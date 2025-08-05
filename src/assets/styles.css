@@ -507,7 +507,7 @@
 .content-window-slider .custom-next-btn {
   position: absolute !important;
   top: 50%; 
-  transform: translateY(30%);
+  transform: translateY(35%);
   z-index: 1;
   
 }
